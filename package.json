@@ -77,7 +77,7 @@
     "koa-router": "7.4.0",
     "koa2-cors": "2.0.6",
     "mongodb": "3.2.3",
-    "node-fetch": "2.3.0",
+    "node-fetch": "2.6.1",
     "node-vault": "0.9.5",
     "nodemailer": "4.7.0",
     "nodemailer-mandrill-transport": "1.2.0",
